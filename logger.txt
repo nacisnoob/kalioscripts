@@ -8,10 +8,10 @@ local webhookcheck =
 local url =
    "https://discord.com/api/webhooks/1025191860253233173/s8qW0NFZOPVBhmwEZhKXEgjA59c4u674wt7-F8gKKMVHw3yFOsjhqtQKzulaV3A1vj1K" -- put ur webhook here dumbos
 local data = {
-   ["content"] = "some dumass bozo goofy ahh ass executed a script from script hub (he also gay)",
+   ["content"] = "some dumass bozo goofy ahh ass injected (he gay)",
    ["embeds"] = {
        {
-           ["title"] = "**Someone Executed Infi Yeild** in: "   ..game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.. " :)",
+           ["title"] = "**Someone Injected Kalio!** in: "   ..game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name.. " :)",
            ["description"] = "Username: " .. game.Players.LocalPlayer.Name.." with **"..webhookcheck.."**",
            ["type"] = "rich",
            ["color"] = tonumber(0x7269da),
